@@ -697,7 +697,7 @@ const SettingsView = ({ rates, setRates, prices, lastUpdated, saveSettingsToClou
               Firebase ì°ë ì <strong>ì¤ìê° ë©í° ê¸°ê¸° ëê¸°í</strong>ê° ì§ìë©ëë¤.
             </p>
             <div className="space-y-2 text-xs text-slate-400">
-              <div className="flex gap-2"><span className="text-emerald-400 font-bold">1.</span><span><strong>GitHub Pages ë°°í¬:</strong> GitHubì ì½ë ì¬ë¦¬ê¸° â Actions ìë ë¹ë â ë¬´ë£ ëë©ì¸ ìì±</spam></div>
+              <div className="flex gap-2"><span className="text-emerald-400 font-bold">1.</span><span><strong>GitHub Pages ë°°í¬:</strong> GitHubì ì½ë ì¬ë¦¬ê¸° â Actions ìë ë¹ë â ë¬´ë£ ëë©ì¸ ìì±</span></div>
               <div className="flex gap-2"><span className="text-emerald-400 font-bold">2.</span><span><strong>ì¤ìê° ëê¸°í:</strong> ëë©ì¸ ì£¼ìë¡ ì¤ë§í¸í°ì´ë íë¸ë¦¿ìì ì´ë©´ ì¦ì ëê¸°íë©ëë¤.</span></div>
               <div className="flex gap-2"><span className="text-emerald-400 font-bold">3.</span><span><strong>ë¤ë¥¸ ì¬ë ì±:</strong> user-config.js íì¼ë§ ìì íë©´ ë³ë í¬í¸í´ë¦¬ì¤ ì±ì ë§ë¤ ì ììµëë¤.</span></div>
             </div>
