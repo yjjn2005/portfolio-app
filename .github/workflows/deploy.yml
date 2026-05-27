@@ -1,13 +1,9 @@
-# ================================================================
-#  GitHub Actions â Vite ë¹ë í GitHub Pages ìë ë°°í¬
-#  main ë¸ëì¹ì push í  ëë§ë¤ ìë ì¤íë©ëë¤.
-# ================================================================
 name: Deploy to GitHub Pages
 
 on:
   push:
     branches: [ main ]
-  workflow_dispatch:    # ìë ì¤íë ê°ë¥
+  workflow_dispatch:
 
 permissions:
   contents: read
